@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Pontano+Sans);
+@import url(https://fonts.googleapis.com/css?family=Michroma);
+ h1 {
+  text-align: left;
+  font-size: 45px;
+  border-top: 3px #486F88 solid;
+  border-bottom: 3px  #486F88 solid;
+  box-sizing: border-box;
+  padding: 15px;
+  font-family: Michroma;
+  color: #578714;
+}
+#contact {
+  text-align: left;
+  box-sizing: border-box;
+  padding: 15px;
+
+
+}
+
+html {
+  font-family: Pontano Sans;
+  color: gray;
+}
+h2 {
+  font-weight: bold;
+  font-size: 30px;
+  color: #C9620D;
+
+}
+em {
+  font-style: italic;;
+  font-weight: lighter;
+}
+span {
+  font-weight: bold;
+  color: black;
+}
+#objective {
+
+  width: 47%;
+  padding: 15px;
+  margin: 10px;
+  box-sizing: border-box;
+  container: 100%;
+  border-top: 3px #486F88 solid;
+  border-bottom: 3px #486F88 solid;
+}
+#highlights {
+
+  width: 47%;
+  padding: 15px;
+  margin: 10px;
+  box-sizing: border-box;
+  container: 100%;
+
+  border-bottom: 3px #486F88 solid;
+
+}
+#skills {
+  padding: 15px;
+  margin: 10px;
+  box-sizing: border-box;
+  container: 100%;
+  border-bottom: 3px #486F88 solid;
+
+}
+h3 {
+  color: #578714;
+}
+li {
+  list-style: square;
+}
